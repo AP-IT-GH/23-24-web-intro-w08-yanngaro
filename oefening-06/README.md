@@ -11,7 +11,7 @@ Tijdens dit labo leer je
 
 ### authentificatie met token
 
- - [API: Auth0 Management API](https://auth0.com/docs/api/management/v2)
+ - [API: Auth0 Management API](https://auth0.com/docs/api/gmanagement/v2)
  - endpoint: /users
 
 ---
